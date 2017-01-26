@@ -7,4 +7,4 @@ This is a map of Japan.
 
 This is not the end.
 
-This is local edit to create a conflict.
+There is no more conflict
