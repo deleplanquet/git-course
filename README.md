@@ -7,4 +7,6 @@ This is a map of Japan.
 
 This is not the end.
 
-There is no more conflict
+There is no more conflict.
+
+Here is another change.
